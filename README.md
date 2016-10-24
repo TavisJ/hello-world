@@ -1,4 +1,3 @@
 # hello-world
-just another repository
 
-This is the first fiel i have created on github, we'll see how that goes.
+This is the first file I have created on github, we'll see how this site goes.
